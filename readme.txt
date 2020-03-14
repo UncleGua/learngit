@@ -1,3 +1,3 @@
 Git is a distruibuted version control system.
 Git is free software
-git is a distruibuted version control sysytem.
+ control sysytem.林泓是个小傻逼
